@@ -14,6 +14,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ETv | ATV +
 http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ETv | ATV Sur
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://canaln.pe/_next/image?url=%2Fimg%2Flogo-canalN-color.png&w=48&q=75" group-title="PERU", ETv | Canal N
 http://gustvplay.com:8080/zYFtvG2mtRUR/WeN7U8Hqg7rX/244242
 
@@ -22,9 +25,6 @@ http://45.90.105.74:25461/bud-1882009/1e621f3272/92234
 
 #EXTINF:-1 tvg-id="PE | Movistar Plus" tvg-name="PE | Movistar Plus" tvg-logo="https://movistarplus.pe/wp-content/uploads/sites/3/2020/09/logo-movistar-plus-blue.png" group-title="PERU", ETv | Movistar Plus
 http://45.90.105.74:25461/bud-1882009/1e621f3272/40374
-
-#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ETv | ATV Sur
-http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", ETv | TV Perú
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
@@ -67,7 +67,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 
 
 
-CANALES DEL PERU
+****************  CANALES DEL PERU  ****************
 
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="CANALES DEL PERU", ETv | Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
@@ -81,14 +81,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="CANALES DEL PERU", ETv | Radio Selva Televisión || Moyobamba
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="CANALES DEL PERU", ETv | Atmosfera TV || Moyobamba
-http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
-
 #EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="CANALES DEL PERU", ETv | Auténtica Televisión || Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="CANALES DEL PERU", ETv | VZ Televisión || Moyobamba
-https://live.obslivestream.com/vztv/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="CANALES DEL PERU", ETv | CR Televisión || Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
@@ -107,9 +101,6 @@ https://live.obslivestream.com/cumo/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="CANALES DEL PERU", ETv | Sanjuanera Televisión || Moyobamba
 https://live.obslivestream.com/sanjuanera/index.m3u8
-
-#EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="CANALES DEL PERU", ETv | OK Television || Soritor
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
 #EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="CANALES DEL PERU", ETv | Vía Alto Mayo Televisión || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
@@ -147,9 +138,6 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="CANALES DEL PERU", ETv | Super Canal Televisión || Yurimaguas
 https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jktwc449tdgh.png" group-title="CANALES DEL PERU", ETv | RTV Total || Yurimaguas
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
 #EXTINF:-1 tvg-id="PE | Radio Televisión Oriente" tvg-name="PE | Radio Televisión Oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="CANALES DEL PERU", ETv | Radio Televisión Oriente || Yurimaguas
 https://live.obslivestream.com/tvoriente/index.m3u8
 
@@ -186,14 +174,12 @@ https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="CANALES DEL PERU", ETv | Ucayali TV || Pucallpa
 http://stream.fuegoplayer.com/ucayalitv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://riberena.pe/wp-content/uploads/2023/04/cropped-LOGO-RIBERENA-CONECTATE-MAS-CON-BORDE-1536x405.png" group-title="CANALES DEL PERU", ETv | Ribereña TV || Pucallpa
-https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
-
-#EXTINF:-1 tvg-id="PE | BNB Digital TV" tvg-name="PE | BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="CANALES DEL PERU", ETv | BNB Digital TV || Atalaya
-https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="CANALES DEL PERU", ETv | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+
+
+****************  NOVELAS  ****************
 
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", ETv | RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
@@ -224,6 +210,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", ETv | Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
+
+
+****************  INTERNACIONAL  ****************
 
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", ETv | Investigation Discovery
 http://138.59.177.34:8000/play/a06g/index.m3u8
@@ -273,12 +262,6 @@ https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", ETv | Claro Cinema
 http://138.59.177.34:8000/play/a05b/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="PELICULAS Y SERIES", ETv | De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MX | De Película Plus" tvg-name="MX | De Película Plus" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="PELICULAS Y SERIES", ETv | De Película Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", ETv | TCM
 http://138.59.177.34:8000/play/a04e/index.m3u8
 
@@ -313,7 +296,7 @@ http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 http://138.59.177.34:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", ETv | Star Channel
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+http://45.90.105.74:25461/bud-1882009/1e621f3272/2449
 
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", ETv | FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
@@ -324,7 +307,7 @@ http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", ETv | Universal TV
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", ETv | Universal Crime
+#EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" Wtvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", ETv | Universal Crime
 http://138.59.177.34:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", ETv | Universal Cinema
@@ -342,26 +325,37 @@ http://138.59.177.34:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337481747-universal-premiere.png" group-title="PELICULAS Y SERIES", ETv | Universal Premiere Oeste
 http://138.59.177.34:8000/play/a05t/index.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", ETv | Cinemax
 http://190.61.55.186:1010/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", ETv | HBO
-http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Easte Latino (i)" tvg-logo="" group-title="Latinos",Cinemax Easte Latino (i)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/158779
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD (MX)(R)" tvg-logo="" group-title="Latinos",Cinemax FHD (MX)(R)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159216
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD (MX)(R)" tvg-logo="" group-title="Latinos",Cinemax HD (MX)(R)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159215
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png" group-title="Latinos",CINEMAX HD (p)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/128620
 
-#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", ETv | HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", ETv | HBO +
-http://138.59.177.34:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", ETv | HBO Family
-http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H-B-O FHD (MX)(R)" tvg-logo="" group-title="Latinos",H-B-O FHD (MX)(R)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159234
 
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", ETv | HBO Xtreme
-http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H-B-O 2 FHD (MX)(R)" tvg-logo="" group-title="Latinos",H-B-O 2 FHD (MX)(R)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159237
 
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", ETv | HBO Pop
-http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-id="" tvg-name="H-B-O + HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png" group-title="Latinos",H-B-O + HD (p)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/30343
+
+#EXTINF:-1 tvg-id="" tvg-name="H-B-O Family FHD (MX)(R)" tvg-logo="" group-title="Latinos",H-B-O Family FHD (MX)(R)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159243
+
+
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", ETv | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
