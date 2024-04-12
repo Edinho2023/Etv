@@ -65,76 +65,80 @@ http://bantel.iptvperu.tv:1935/transcoder_t6/usmptvmusicamovil_t6.stream/playlis
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", ETv | Global Televisión
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", ETv | Vinilos TV || Moyobamba
+
+
+CANALES DEL PERU
+
+#EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="CANALES DEL PERU", ETv | Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="LOCALES", ETv | Genios Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="CANALES DEL PERU", ETv | Genios Televisión || Moyobamba
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="LOCALES", ETv | Planeta TV || Moyobamba
+#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="CANALES DEL PERU", ETv | Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="LOCALES", ETv | Radio Selva Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="CANALES DEL PERU", ETv | Radio Selva Televisión || Moyobamba
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="LOCALES", ETv | Atmosfera TV || Moyobamba
+#EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="CANALES DEL PERU", ETv | Atmosfera TV || Moyobamba
 http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
 
-#EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="LOCALES", ETv | Auténtica Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="CANALES DEL PERU", ETv | Auténtica Televisión || Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="LOCALES", ETv | VZ Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="CANALES DEL PERU", ETv | VZ Televisión || Moyobamba
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="LOCALES", ETv | CR Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="CANALES DEL PERU", ETv | CR Televisión || Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | W Televisión" tvg-name="PE | W Televisión" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="LOCALES", ETv | W Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | W Televisión" tvg-name="PE | W Televisión" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="CANALES DEL PERU", ETv | W Televisión || Moyobamba
 https://live.obslivestream.com/wtv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Contacto Televisión" tvg-name="PE | Contacto Televisión" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="LOCALES", ETv | Contacto TV || Moyobamba
+#EXTINF:-1 tvg-id="PE | Contacto Televisión" tvg-name="PE | Contacto Televisión" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="CANALES DEL PERU", ETv | Contacto TV || Moyobamba
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
 
-#EXTINF:-1 tvg-id="PE | Studio TV" tvg-name="PE | Studio TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png" group-title="LOCALES", ETv | Studio TV || Moyobamba
+#EXTINF:-1 tvg-id="PE | Studio TV" tvg-name="PE | Studio TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png" group-title="CANALES DEL PERU", ETv | Studio TV || Moyobamba
 https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", ETv | Cumo TV || Moyobamba
+#EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="CANALES DEL PERU", ETv | Cumo TV || Moyobamba
 https://live.obslivestream.com/cumo/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", ETv | Sanjuanera Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="CANALES DEL PERU", ETv | Sanjuanera Televisión || Moyobamba
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="PROVINCIALES", ETv | OK Television || Soritor
+#EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="CANALES DEL PERU", ETv | OK Television || Soritor
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
-#EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", ETv | Vía Alto Mayo Televisión || Rioja
+#EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="CANALES DEL PERU", ETv | Vía Alto Mayo Televisión || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", ETv | Nor Selva Televisión || Rioja
+#EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="CANALES DEL PERU", ETv | Nor Selva Televisión || Rioja
 https://live.obslivestream.com/norselvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | California TV" tvg-name="PE | California TV" tvg-logo="https://play-lh.googleusercontent.com/0PDtlaDTl0SA3nFeDgS-RBurAzJHt4jUAUJi9zYOTdjCvZzNdiMoILTdgYM9I42llPM=w240-h480-rw" group-title="PROVINCIALES", ETv | California TV || Nueva Cajamarca
+#EXTINF:-1 tvg-id="PE | California TV" tvg-name="PE | California TV" tvg-logo="https://play-lh.googleusercontent.com/0PDtlaDTl0SA3nFeDgS-RBurAzJHt4jUAUJi9zYOTdjCvZzNdiMoILTdgYM9I42llPM=w240-h480-rw" group-title="CANALES DEL PERU", ETv | California TV || Nueva Cajamarca
 https://vdo.grupolimalive.com:3576/live/californiatvlive.m3u8
 
-#EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES", ETv | Antares Televisión || Tarapoto
+#EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="CANALES DEL PERU", ETv | Antares Televisión || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", ETv | Televisión Tarapoto || Tarapoto
+#EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="CANALES DEL PERU", ETv | Televisión Tarapoto || Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", ETv | Master Televisión || Tarapoto
+#EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="CANALES DEL PERU", ETv | Master Televisión || Tarapoto
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Via Televisión" tvg-name="PE | Via Televisión" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PROVINCIALES", ETv | Vía Televisión || Tarapoto
+#EXTINF:-1 tvg-id="PE | Via Televisión" tvg-name="PE | Via Televisión" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="CANALES DEL PERU", ETv | Vía Televisión || Tarapoto
 https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="PROVINCIALES", ETv | TV Tropical || Tarapoto
+#EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="CANALES DEL PERU", ETv | TV Tropical || Tarapoto
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PROVINCIALES", ETv | Millenium TV || Lamas
+#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="CANALES DEL PERU", ETv | Millenium TV || Lamas
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", ETv | Radio TV Juanjui || Juanjui
+#EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="CANALES DEL PERU", ETv | Radio TV Juanjui || Juanjui
 https://tv1.mediacp.eu:3573/live/qpufhwtflive.m3u8
 
 #EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", ETv | Uranio TV || Yurimaguas
@@ -3498,88 +3502,88 @@ https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 #EXTINF:-1 tvg-id="CI | Ivoire Channel" tvg-name="CI | Ivoire Channel" tvg-logo="https://play-lh.googleusercontent.com/URv6HhGl1NdHOxhCBAZj1vd-GlJBL3Vn9CwDk8z5_SDIufM27Lz76TKmyP8ktEA_bto=s48-rw" group-title="COSTA DE MARFIL", 1124 | Ivoire Channel || COSTA DE MARFIL
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="EMISORAS LOCALES", 1125 | Radio Atmosfera 92.3 FM || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="EMISORAS CANALES DEL PERU", 1125 | Radio Atmosfera 92.3 FM || Moyobamba; Perú
 https://panelautodj.innovatestream.pe:10742/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Atmósfera Vip Rock and Pop" tvg-name="PE | Radio Atmósfera Vip Rock and Pop" tvg-logo="https://radioatmosfera.pe/wp-content/uploads/2024/01/vip_00000.jpg" group-title="EMISORAS LOCALES", 1125.2 | Radio Atmosfera Vip Rock and Pop || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Atmósfera Vip Rock and Pop" tvg-name="PE | Radio Atmósfera Vip Rock and Pop" tvg-logo="https://radioatmosfera.pe/wp-content/uploads/2024/01/vip_00000.jpg" group-title="EMISORAS CANALES DEL PERU", 1125.2 | Radio Atmosfera Vip Rock and Pop || Moyobamba; Perú
 https://panelautodj.innovatestream.pe:10726/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2023/10/LOGO.png" group-title="EMISORAS LOCALES", 1126 | Interactiva Radio 92.9 FM || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2023/10/LOGO.png" group-title="EMISORAS CANALES DEL PERU", 1126 | Interactiva Radio 92.9 FM || Moyobamba; Perú
 https://conectperu.com/8390/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/08/LOGO-web.png" group-title="EMISORAS LOCALES", 1127 | Radio Selva 93.7 FM || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/08/LOGO-web.png" group-title="EMISORAS CANALES DEL PERU", 1127 | Radio Selva 93.7 FM || Moyobamba; Perú
 https://conectperu.com/8470//stream
 
-#EXTINF:-1 tvg-id="PE | Estación C La Radio" tvg-name="PE | Estación C La Radio" tvg-logo="https://pbs.twimg.com/media/F-c9OqTXIAAug_m?format=png&name=small" group-title="EMISORAS LOCALES", 1128 | Estación C La Radio 101.7 FM || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Estación C La Radio" tvg-name="PE | Estación C La Radio" tvg-logo="https://pbs.twimg.com/media/F-c9OqTXIAAug_m?format=png&name=small" group-title="EMISORAS CANALES DEL PERU", 1128 | Estación C La Radio 101.7 FM || Moyobamba; Perú
 https://conectperu.com/8038//stream
 
-#EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS LOCALES", 1129 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS CANALES DEL PERU", 1129 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
 https://stream-40.zeno.fm/nmx8e1y7cm0uv?zs=e2hAOnVRRs2NRTKp98xR6Q&aw_0_req_lsid=1663150054202_0.5060922715387872&an-uid=5362203318446947601&triton-uid=cookie%3A1a8575a0-a2d8-4284-a5c1-853a8ffb7673
 
-#EXTINF:-1 tvg-id="PE | Radio Moda Star" tvg-name="PE | Radio Moda Star" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png" group-title="EMISORAS LOCALES", 1130 | Radio Moda Star || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Moda Star" tvg-name="PE | Radio Moda Star" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png" group-title="EMISORAS CANALES DEL PERU", 1130 | Radio Moda Star || Moyobamba; Perú
 https://sp.onliveperu.com/8004/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/93943.v3.png" group-title="EMISORAS LOCALES", 1131 | Radio Power || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/93943.v3.png" group-title="EMISORAS CANALES DEL PERU", 1131 | Radio Power || Moyobamba; Perú
 https://sp.dattavolt.com/8062/stream
 
-#EXTINF:-1 tvg-id="PE | Radio La Voz de Moyobamba" tvg-name="PE | Radio La Voz de Moyobamba" tvg-logo="https://play-lh.googleusercontent.com/n1rtB2umm4Aiu1hkiKnRhGDlnnBLJYO2ZEWAClKuaJShBrMmKg7xvnWAZX4jbMMwn0I=w240-h480-rw" group-title="EMISORAS LOCALES", 1132 | Radio La Voz de Moyobamba || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio La Voz de Moyobamba" tvg-name="PE | Radio La Voz de Moyobamba" tvg-logo="https://play-lh.googleusercontent.com/n1rtB2umm4Aiu1hkiKnRhGDlnnBLJYO2ZEWAClKuaJShBrMmKg7xvnWAZX4jbMMwn0I=w240-h480-rw" group-title="EMISORAS CANALES DEL PERU", 1132 | Radio La Voz de Moyobamba || Moyobamba; Perú
 https://radio.livestreamingmundial.com:7068/stream?icy=http
 
-#EXTINF:-1 tvg-id="PE | Radio G" tvg-name="PE | Radio G" tvg-logo="https://radiog.pe/wp-content/uploads/2020/08/1logo-radio1.png" group-title="EMISORAS LOCALES", 1133 | Radio G || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio G" tvg-name="PE | Radio G" tvg-logo="https://radiog.pe/wp-content/uploads/2020/08/1logo-radio1.png" group-title="EMISORAS CANALES DEL PERU", 1133 | Radio G || Moyobamba; Perú
 https://conectperu.com/8436//stream
 
-#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS LOCALES", 1134 | Radio Tropicana 99.7 FM || Soritor; Perú
+#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS CANALES DEL PERU", 1134 | Radio Tropicana 99.7 FM || Soritor; Perú
 http://radio.livestreamingmundial.com:8206/
 
-#EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS PROVINCIALES", 1135 | Radio Nor Selva 98.7 FM || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS CANALES DEL PERU", 1135 | Radio Nor Selva 98.7 FM || Rioja; Perú
 https://sp.onliveperu.com/8150/stream/;type=mp3
 
-#EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS PROVINCIALES", 1136 | Radio Rioja 101.1 FM || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS CANALES DEL PERU", 1136 | Radio Rioja 101.1 FM || Rioja; Perú
 https://radio.sonandoahora.com:7019/;
 
-#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", 1137 | Radio Vía Alto Mayo || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS CANALES DEL PERU", 1137 | Radio Vía Alto Mayo || Rioja; Perú
 https://whmsonic.playerfullhd.com:7099/;/live
 
-#EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 1138 | Radio California 102.9 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS CANALES DEL PERU", 1138 | Radio California 102.9 FM || Nueva Cajamarca; Perú
 https://sp01.servidor.stream/8026/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS PROVINCIALES", 1139 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS CANALES DEL PERU", 1139 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
 https://sp.onliveperu.com/8090/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Estación Lamas" tvg-name="PE | Radio Estación Lamas" tvg-logo="https://radioestacionlamas.com/images/logo.png" group-title="EMISORAS PROVINCIALES", 1140 | Radio Estación Lamas || Lamas; Perú
+#EXTINF:-1 tvg-id="PE | Radio Estación Lamas" tvg-name="PE | Radio Estación Lamas" tvg-logo="https://radioestacionlamas.com/images/logo.png" group-title="EMISORAS CANALES DEL PERU", 1140 | Radio Estación Lamas || Lamas; Perú
 https://stream-59.zeno.fm/nquc4xxz6bhvv?zs=au0SXsPKTPWSi2RldHNzgA
 
-#EXTINF:-1 tvg-id="PE | Radio Millenium" tvg-name="PE | Radio Millenium" tvg-logo="https://milleniumrtv.com/wp-content/uploads/2022/07/logo.png" group-title="EMISORAS PROVINCIALES", 1141 | Radio Millenium || Lamas; Perú
+#EXTINF:-1 tvg-id="PE | Radio Millenium" tvg-name="PE | Radio Millenium" tvg-logo="https://milleniumrtv.com/wp-content/uploads/2022/07/logo.png" group-title="EMISORAS CANALES DEL PERU", 1141 | Radio Millenium || Lamas; Perú
 https://shoutcast.tmcreativos.com/proxy/milleniumla/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Nor Oriental" tvg-name="PE | Radio Nor Oriental" tvg-logo="https://radionororiental.com/wp-content/uploads/2022/11/302555295_589922739261398_924394194795722133_n-960x303.jpg" group-title="EMISORAS PROVINCIALES", 1142 | Radio Nor Oriental 90.5 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Nor Oriental" tvg-name="PE | Radio Nor Oriental" tvg-logo="https://radionororiental.com/wp-content/uploads/2022/11/302555295_589922739261398_924394194795722133_n-960x303.jpg" group-title="EMISORAS CANALES DEL PERU", 1142 | Radio Nor Oriental 90.5 FM || Tarapoto; Perú
 https://radio.perustreaming.net:8002//stream?icy=http
 
-#EXTINF:-1 tvg-id="PE | Radio Amistad" tvg-name="PE | Radio Amistad" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr215.png" group-title="EMISORAS PROVINCIALES", 1143 | Radio Amistad 94.3 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Amistad" tvg-name="PE | Radio Amistad" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr215.png" group-title="EMISORAS CANALES DEL PERU", 1143 | Radio Amistad 94.3 FM || Tarapoto; Perú
 https://node-05.zeno.fm/00x5zgc5xg0uv.aac?zs=gaosDMhVRUudgtuUqhx1RA&rj-tok=AAABgW3OIMAAfufZoQ7F6_2Tpg&rj-ttl=5
 
-#EXTINF:-1 tvg-id="PE | Radio San Martín" tvg-name="PE | Radio San Martín" tvg-logo="https://1.bp.blogspot.com/-th53BByKIvQ/X7eRov-E_vI/AAAAAAAAPSU/HWIpZrDiTMo1mp2WitgpFL5eGLJz5gsyQCLcBGAsYHQ/w200-h200/sanmartintarapoto.jpg" group-title="EMISORAS PROVINCIALES", 1144 | Radio San Martín 97.5 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio San Martín" tvg-name="PE | Radio San Martín" tvg-logo="https://1.bp.blogspot.com/-th53BByKIvQ/X7eRov-E_vI/AAAAAAAAPSU/HWIpZrDiTMo1mp2WitgpFL5eGLJz5gsyQCLcBGAsYHQ/w200-h200/sanmartintarapoto.jpg" group-title="EMISORAS CANALES DEL PERU", 1144 | Radio San Martín 97.5 FM || Tarapoto; Perú
 https://sonicpanel.tmcreativos.com/8004/stream/;
 
-#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://www.planetaradios.com/content/radios_fm/interactiva_radio_pe_sda011d01dss.png" group-title="EMISORAS PROVINCIALES", 1145 | Interactiva Radio 98.3 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://www.planetaradios.com/content/radios_fm/interactiva_radio_pe_sda011d01dss.png" group-title="EMISORAS CANALES DEL PERU", 1145 | Interactiva Radio 98.3 FM || Tarapoto; Perú
 https://conectperu.com/8426/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Laser" tvg-name="PE | Radio Laser" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-laser-100-tarapoto.png" group-title="EMISORAS PROVINCIALES", 1146 | Radio Laser 100.7 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Laser" tvg-name="PE | Radio Laser" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-laser-100-tarapoto.png" group-title="EMISORAS CANALES DEL PERU", 1146 | Radio Laser 100.7 FM || Tarapoto; Perú
 https://conectperu.com/8078/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Karicia" tvg-name="PE | Radio Karicia" tvg-logo="https://kariciafm.com/wp-content/uploads/2021/07/karicia.png" group-title="EMISORAS PROVINCIALES", 1147 | Radio Karicia 107.5 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Karicia" tvg-name="PE | Radio Karicia" tvg-logo="https://kariciafm.com/wp-content/uploads/2021/07/karicia.png" group-title="EMISORAS CANALES DEL PERU", 1147 | Radio Karicia 107.5 FM || Tarapoto; Perú
 https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 
-#EXTINF:-1 tvg-id="PE | Radio Fans" tvg-name="PE | Radio Fans" tvg-logo="https://static-media.streema.com/media/cache/0c/f0/0cf0fce695bd125e78e44ff5fc8badf6.jpg" group-title="EMISORAS PROVINCIALES", 1148 | Radio Fans 95.5 FM || Picota; Perú
+#EXTINF:-1 tvg-id="PE | Radio Fans" tvg-name="PE | Radio Fans" tvg-logo="https://static-media.streema.com/media/cache/0c/f0/0cf0fce695bd125e78e44ff5fc8badf6.jpg" group-title="EMISORAS CANALES DEL PERU", 1148 | Radio Fans 95.5 FM || Picota; Perú
 http://eu1.serviaudio.com:8066/stream/;
 
-#EXTINF:-1 tvg-id="PE | Radio Poderosa" tvg-name="PE | Radio Poderosa" tvg-logo="https://play-lh.googleusercontent.com/rs0UVLt2k9ON12iW-dzghfoKwKuAChW3aFDh4SSIAIzI49_m8ktG33GmWanD2bSk3Q=s200" group-title="EMISORAS PROVINCIALES", 1149 | Radio Poderosa 96.7 FM || Picota; Perú
+#EXTINF:-1 tvg-id="PE | Radio Poderosa" tvg-name="PE | Radio Poderosa" tvg-logo="https://play-lh.googleusercontent.com/rs0UVLt2k9ON12iW-dzghfoKwKuAChW3aFDh4SSIAIzI49_m8ktG33GmWanD2bSk3Q=s200" group-title="EMISORAS CANALES DEL PERU", 1149 | Radio Poderosa 96.7 FM || Picota; Perú
 http://eu1.serviaudio.com:8038/
 
-#EXTINF:-1 tvg-id="PE | Radio La Grande" tvg-name="PE | Radio La Grande" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr297.png" group-title="EMISORAS PROVINCIALES", 1150 | Radio La Grande 96.7 FM || Saposoa; Perú
+#EXTINF:-1 tvg-id="PE | Radio La Grande" tvg-name="PE | Radio La Grande" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr297.png" group-title="EMISORAS CANALES DEL PERU", 1150 | Radio La Grande 96.7 FM || Saposoa; Perú
 https://sp.onliveperu.com/8028/stream/;type=mp3
 
-#EXTINF:-1 tvg-id="PE | Radio Star" tvg-name="PE | Radio Star" tvg-logo="http://radiostarsaposoa.com/assets/img/logo.png" group-title="EMISORAS PROVINCIALES", 1151 | Radio Star 97.5 FM || Saposoa; Perú
+#EXTINF:-1 tvg-id="PE | Radio Star" tvg-name="PE | Radio Star" tvg-logo="http://radiostarsaposoa.com/assets/img/logo.png" group-title="EMISORAS CANALES DEL PERU", 1151 | Radio Star 97.5 FM || Saposoa; Perú
 https://stream-150.zeno.fm/thftmx5nhnouv?zs=TIWsBN2wQOqjXcUSHPI4Fg
 
 #EXTINF:-1 tvg-id="PE | Radio Fantasía" tvg-name="PE | Radio Fantasía" tvg-logo="https://play-lh.googleusercontent.com/S8JRGHusHv3FbcInfuqPQqkF7AeCdjXMjZJBu5-AqeCX_LKJI-zTXC10WNVoNsdu9Q=w240-h480-rw" group-title="EMISORAS REGIONALES", 1152 | Radio Fantasía || Iquitos; Perú
@@ -3600,7 +3604,7 @@ https://sp.dattavolt.com/8098/stream
 #EXTINF:-1 tvg-id="PE | Radio Rutas" tvg-name="PE | Radio Rutas" tvg-logo="https://play-lh.googleusercontent.com/7hUpRIhYXUf2VRDm9oBEZLvqzSc6eCtMYzRLelnfqYwRFXc75nhJlZZrvZ9ujzgmCw=w240-h480-rw" group-title="EMISORAS REGIONALES", 1157 | Radio Rutas || Quillabamba; Perú
 https://tupanel.info:9920/stream?icy=http
 
-#EXTINF:-1 tvg-id="PE | Radio Fiesta FM" tvg-name="PE | Radio Fiesta FM" tvg-logo="https://radiofiestapiurafm.com/wp-content/uploads/2021/11/LOGO-FIESTA-PNG-1-1536x1129.png" group-title="EMISORAS LOCALES", 1158 | Radio Fiesta 91.5 FM || Piura; Perú
+#EXTINF:-1 tvg-id="PE | Radio Fiesta FM" tvg-name="PE | Radio Fiesta FM" tvg-logo="https://radiofiestapiurafm.com/wp-content/uploads/2021/11/LOGO-FIESTA-PNG-1-1536x1129.png" group-title="EMISORAS CANALES DEL PERU", 1158 | Radio Fiesta 91.5 FM || Piura; Perú
 https://radio.livestreamingmundial.com:7086/live
 
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO CON VIDEO", 1159 | Expresión Radio TV || Ilo; Perú
