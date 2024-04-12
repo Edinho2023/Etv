@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Max (PE)(R)" tvg-logo="" group-title="Peru",Liga 1 Max (PE)(R)
-http://45.90.105.74:25461/bud-1882009/1e621f3272/92233
+#EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="PERU", ETv | Liga 1 Max
+http://45.90.105.74:25461/bud-1882009/1e621f3272/92234
 
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", ETv | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
