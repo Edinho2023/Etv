@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS (PE)(p)" tvg-logo="" group-title="Peru",MOVISTAR PLUS (PE)(p)
+http://45.90.105.74:25461/bud-1882009/1e621f3272/40374
+
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://canaln.pe/_next/image?url=%2Fimg%2Flogo-canalN-color.png&w=48&q=75" group-title="PERU", ETv | Canal N
 http://gustvplay.com:8080/zYFtvG2mtRUR/WeN7U8Hqg7rX/244242
 
