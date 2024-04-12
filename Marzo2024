@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="DEPORTES", LIGA 1 PERU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/liga1peru.json
-https://dtvott-abc.akamaized.net/dash_live_1271/manifest.mpd
+#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://canaln.pe/_next/image?url=%2Fimg%2Flogo-canalN-color.png&w=48&q=75" group-title="PERU", ETv | Canal N
+http://gustvplay.com:8080/zYFtvG2mtRUR/WeN7U8Hqg7rX/244242
 
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="PERU", ETv | Liga 1 Max
 http://45.90.105.74:25461/bud-1882009/1e621f3272/92234
