@@ -1,38 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="LISTA CANALES DIGITALES ETv", América | ETv
+#EXTINF:-1 tvg-id="ETv | América Televisión" tvg-name="ETv | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" 
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="LISTA CANALES DIGITALES ETv", Latina | ETv
+#EXTINF:-1 tvg-id="ETv | Latina Televisión" tvg-name="ETv | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" 
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="LISTA CANALES DIGITALES ETv", Panamericana | ETv
+#EXTINF:-1 tvg-id="ETv | Panamericana Televisión" tvg-name="ETv | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="LISTA CANALES DIGITALES ETv", Panamericana | ETv
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", ATV | ETv
+#EXTINF:-1 tvg-id="ETv | Andina Televisión" tvg-name="ETv | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", ATV | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", ATV + | ETv
+#EXTINF:-1 tvg-id="ETv | Andina Televisión Plus" tvg-name="ETv | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", ATV + | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="LISTA CANALES DIGITALES ETv", ATV Sur | ETv
+#EXTINF:-1 tvg-id="ETv | Andina Televisión Sur" tvg-name="ETv | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="LISTA CANALES DIGITALES ETv", ATV Sur | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="LISTA CANALES DIGITALES ETv", TV Perú | ETv
+#EXTINF:-1 tvg-id="ETv | TV Perú" tvg-name="ETv | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="LISTA CANALES DIGITALES ETv", TV Perú | ETv
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="LISTA CANALES DIGITALES ETv", TV Perú Noticias | ETv
+#EXTINF:-1 tvg-id="ETv | TV Perú Noticias" tvg-name="ETv | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="LISTA CANALES DIGITALES ETv", TV Perú Noticias | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="LISTA CANALES DIGITALES ETv", Liga 1 Max | ETv
+#EXTINF:-1 tvg-id="ETv | Liga 1 Max" tvg-name="ETv | Liga 1 Max" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="LISTA CANALES DIGITALES ETv", Liga 1 Max | ETv
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="LISTA CANALES DIGITALES ETv", Gol Peru | ETv
 http://177.53.153.20:8001/play/a03z/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="LISTA CANALES DIGITALES ETv", Willax | ETv
+#EXTINF:-1 tvg-id="ETv | Willax Televisión" tvg-name="ETv | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="LISTA CANALES DIGITALES ETv", Willax | ETv
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="LISTA CANALES DIGITALES ETv", Exitosa | ETv Televisión
+#EXTINF:-1 tvg-id="ETv | Exitosa Televisión" tvg-name="ETv | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="LISTA CANALES DIGITALES ETv", Exitosa | ETv Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/chunks.m3u8
 
 #EXTINF:-1 group-title="LISTA CANALES DIGITALES ETv", RPP | ETv
@@ -41,22 +41,22 @@ http://191.97.58.41:8001/play/a00v
 #EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/telelima.jpg" group-title="LISTA CANALES DIGITALES ETv", TeleLima | ETv
 http://38.44.237.132:2080/TeleLima/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="LISTA CANALES DIGITALES ETv", Congreso | ETv
+#EXTINF:-1 tvg-id="ETv | Congreso TV" tvg-name="ETv | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="LISTA CANALES DIGITALES ETv", Congreso | ETv
 http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="LISTA CANALES DIGITALES ETv", Conectad2 | ETv
+#EXTINF:-1 tvg-id="ETv | Conectad2 TV" tvg-name="ETv | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="LISTA CANALES DIGITALES ETv", Conectad2 | ETv
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="LISTA CANALES DIGITALES ETv", PBO | ETv
+#EXTINF:-1 tvg-id="ETv | PBO TV" tvg-name="ETv | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="LISTA CANALES DIGITALES ETv", PBO | ETv
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="LISTA CANALES DIGITALES ETv", Nativa | ETv
+#EXTINF:-1 tvg-id="ETv | Nativa TV" tvg-name="ETv | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="LISTA CANALES DIGITALES ETv", Nativa | ETv
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="LISTA CANALES DIGITALES ETv", USMP | ETv
+#EXTINF:-1 tvg-id="ETv | USMP TV" tvg-name="ETv | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="LISTA CANALES DIGITALES ETv", USMP | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="LISTA CANALES DIGITALES ETv", Global | ETv
+#EXTINF:-1 tvg-id="ETv | Global Televisión" tvg-name="ETv | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="LISTA CANALES DIGITALES ETv", Global | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="nex" group-title="LISTA CANALES DIGITALES ETv", CNN | ETv
