@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ETv | América Televisión" tvg-name="ETv | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" 
+#EXTINF:-1 tvg-id="ETv | América" tvg-name="ETv | América" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" 
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETv | Latina Televisión" tvg-name="ETv | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" 
+#EXTINF:-1 tvg-id="ETv | Latina" tvg-name="ETv | Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" 
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETv | Panamericana Televisión" tvg-name="ETv | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="LISTA CANALES DIGITALES ETv", Panamericana | ETv
+#EXTINF:-1 tvg-id="ETv | Panamericana" tvg-name="ETv | Panamericana" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" 
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETv | Andina Televisión" tvg-name="ETv | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", ATV | ETv
+#EXTINF:-1 tvg-id="ETv | Andina " tvg-name="ETv | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" 
 http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETv | Andina Televisión Plus" tvg-name="ETv | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", ATV + | ETv
+#EXTINF:-1 tvg-id="ETv | ATV+" tvg-name="ETv | ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" 
 http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETv | Andina Televisión Sur" tvg-name="ETv | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="LISTA CANALES DIGITALES ETv", ATV Sur | ETv
+#EXTINF:-1 tvg-id="ETv | Andina Televisión Sur" tvg-name="ETv | ATV Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="LISTA CANALES DIGITALES ETv", ATV Sur | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ETv | TV Perú" tvg-name="ETv | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="LISTA CANALES DIGITALES ETv", TV Perú | ETv
@@ -26,7 +26,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="ETv | Liga 1 Max" tvg-name="ETv | Liga 1 Max" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="LISTA CANALES DIGITALES ETv", Liga 1 Max | ETv
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="LISTA CANALES DIGITALES ETv", Gol Peru | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="LISTA CANALES DIGITALES ETv", Gol Peru | ETv
 http://177.53.153.20:8001/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="ETv | Willax Televisión" tvg-name="ETv | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="LISTA CANALES DIGITALES ETv", Willax | ETv
@@ -35,7 +35,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-id="ETv | Exitosa Televisión" tvg-name="ETv | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="LISTA CANALES DIGITALES ETv", Exitosa | ETv Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/chunks.m3u8
 
-#EXTINF:-1 group-title="LISTA CANALES DIGITALES ETv", RPP | ETv
+#EXTINF:-1 tvg-id="ETv group-title="LISTA CANALES DIGITALES ETv", RPP | ETv
 http://191.97.58.41:8001/play/a00v
 
 #EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/telelima.jpg" group-title="LISTA CANALES DIGITALES ETv", TeleLima | ETv
@@ -59,179 +59,179 @@ http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ETv | Global Televisión" tvg-name="ETv | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="LISTA CANALES DIGITALES ETv", Global | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="nex" group-title="LISTA CANALES DIGITALES ETv", CNN | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="nex" group-title="LISTA CANALES DIGITALES ETv", CNN | ETv
 http://168.181.122.234:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="LISTA CANALES DIGITALES ETv", TVE 24H | ETv
+#EXTINF:-1 tvg-id="ETv group-title="LISTA CANALES DIGITALES ETv", TVE 24H | ETv
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="LISTA CANALES DIGITALES ETv", RT | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="Logo N/A" group-title="LISTA CANALES DIGITALES ETv", RT | ETv
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="LISTA CANALES DIGITALES ETv", TNT | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="LISTA CANALES DIGITALES ETv", TNT | ETv
 http://170.82.37.21:8000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", TNT Series | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", TNT Series | ETv
 http://168.181.122.234:8000/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Lifetime | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Lifetime | ETv
 http://138.59.177.34:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="LISTA CANALES DIGITALES ETv", Golden | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="Logo N/A" group-title="LISTA CANALES DIGITALES ETv", Golden | ETv
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHxvcrLV/AMC-EN-ESPA-OL-NUEVO.png" group-title="LISTA CANALES DIGITALES ETv", AMC | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://i.postimg.cc/MHxvcrLV/AMC-EN-ESPA-OL-NUEVO.png" group-title="LISTA CANALES DIGITALES ETv", AMC | ETv
 http://138.59.177.34:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LISTA CANALES DIGITALES ETv", AXN | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LISTA CANALES DIGITALES ETv", AXN | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Universal | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Universal | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="LISTA CANALES DIGITALES ETv", Studio Universal | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="n/a" group-title="LISTA CANALES DIGITALES ETv", A&E | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="n/a" group-title="LISTA CANALES DIGITALES ETv", A&E | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LISTA CANALES DIGITALES ETv", Star Channel | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LISTA CANALES DIGITALES ETv", Star Channel | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="LISTA CANALES DIGITALES ETv", Sony | ETv
+#EXTINF:-1 tvg-id="ETv | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="LISTA CANALES DIGITALES ETv", Sony | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Sony Movies | ETv
+#EXTINF:-1 tvg-id="ETv | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Sony Movies | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="LISTA CANALES DIGITALES ETv", Golden Edge | ETv
+#EXTINF:-1 tvg-id="ETv | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="LISTA CANALES DIGITALES ETv", Golden Edge | ETv
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="LISTA CANALES DIGITALES ETv", Clover Channel | ETv
+#EXTINF:-1 tvg-id="ETv | Clover Channel" tvg-name="USA | Clover" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="LISTA CANALES DIGITALES ETv", Clover Channel | ETv
 http://177.234.230.226:8010/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="LISTA CANALES DIGITALES ETv", Investigation Discovery | ETv
+#EXTINF:-1 tvg-id="ETv | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="LISTA CANALES DIGITALES ETv", Investigation Discovery | ETv
 http://138.59.177.34:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", History | ETv
+#EXTINF:-1 tvg-id="ETv | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", History | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="LISTA CANALES DIGITALES ETv", History 2 | ETv
+#EXTINF:-1 tvg-id="ETv | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="LISTA CANALES DIGITALES ETv", History 2 | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="LISTA CANALES DIGITALES ETv", Love Nature | ETv
+#EXTINF:-1 tvg-id="ETv | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="LISTA CANALES DIGITALES ETv", Love Nature | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/lovenature_t2_principal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Discovery Science | ETv
+#EXTINF:-1 tvg-id="ETv | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Discovery Science | ETv
 http://138.59.177.34:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Discovery World | ETv
+#EXTINF:-1 tvg-id="ETv | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Discovery World | ETv
 http://138.59.177.34:8000/play/a078/index.m3u8
 
-#EXTINF:-1 group-title="LISTA CANALES DIGITALES ETv", National Geographic | ETv
+#EXTINF:-1 tvg-id="ETv group-title="LISTA CANALES DIGITALES ETv", National Geographic | ETv
 http://45.5.116.178:8000/play/a05p/index.m3u8
 
-#EXTINF:-1 tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Animal Planet | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Animal Planet | ETv
 http://168.181.122.234:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="LISTA CANALES DIGITALES ETv", E! Entertainment | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="LISTA CANALES DIGITALES ETv", E! Entertainment | ETv
 http://bantel.iptvperu.tv:1935/transcoderip/e!_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Travel and Living | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Travel and Living | ETv
 http://168.181.122.234:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="LISTA CANALES DIGITALES ETv", Home & Health | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="Logo N/A" group-title="LISTA CANALES DIGITALES ETv", Home & Health | ETv
 http://138.59.177.34:8000/play/a05n/index.m3u8
 
-#EXTINF:-1 tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Telemundo | ETv
+#EXTINF:-1 tvg-id="ETv tvg-logo="na" group-title="LISTA CANALES DIGITALES ETv", Telemundo | ETv
 http://160.20.165.246:8000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="LISTA CANALES DIGITALES ETv", Univisión | ETv
+#EXTINF:-1 tvg-id="ETv | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="LISTA CANALES DIGITALES ETv", Univisión | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Corazón | ETv
+#EXTINF:-1 tvg-id="ETv | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Corazón | ETv
 http://138.59.177.34:8000/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LISTA CANALES DIGITALES ETv", Las Estrellas | ETv
+#EXTINF:-1 tvg-id="ETv | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LISTA CANALES DIGITALES ETv", Las Estrellas | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="LISTA CANALES DIGITALES ETv", Las Estrellas | ETv
+#EXTINF:-1 tvg-id="ETv | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="LISTA CANALES DIGITALES ETv", Las Estrellas | ETv
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Tlenovelas Latinoamérica" tvg-name="MX | Tlenovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="LISTA CANALES DIGITALES ETv", Telenovelas | ETv
+#EXTINF:-1 tvg-id="ETv | Tlenovelas Latinoamérica" tvg-name="MX | Tlenovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="LISTA CANALES DIGITALES ETv", Telenovelas | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="LISTA CANALES DIGITALES ETv", Kanal D Drama | ETv
+#EXTINF:-1 tvg-id="ETv | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="LISTA CANALES DIGITALES ETv", Kanal D Drama | ETv
 http://177.234.230.226:8010/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="LISTA CANALES DIGITALES ETv", Más Chic | ETv
+#EXTINF:-1 tvg-id="ETv | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="LISTA CANALES DIGITALES ETv", Más Chic | ETv
 http://138.59.177.34:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="LISTA CANALES DIGITALES ETv", Food Network | ETv
+#EXTINF:-1 tvg-id="ETv | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="LISTA CANALES DIGITALES ETv", Food Network | ETv
 http://190.61.55.186:1010/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="LISTA CANALES DIGITALES ETv", HGTV | ETv
+#EXTINF:-1 tvg-id="ETv | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="LISTA CANALES DIGITALES ETv", HGTV | ETv
 http://138.59.177.34:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="LISTA CANALES DIGITALES ETv", Distrito Comedia | ETv
+#EXTINF:-1 tvg-id="ETv | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="LISTA CANALES DIGITALES ETv", Distrito Comedia | ETv
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="LISTA CANALES DIGITALES ETv", Discovery Kids | ETv
+#EXTINF:-1 tvg-id="ETv | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="LISTA CANALES DIGITALES ETv", Discovery Kids | ETv
 http://190.61.55.186:1010/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="LISTA CANALES DIGITALES ETv", Disney Junior | ETv
+#EXTINF:-1 tvg-id="ETv | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="LISTA CANALES DIGITALES ETv", Disney Junior | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="LISTA CANALES DIGITALES ETv", Plim Plim TV | ETv
+#EXTINF:-1 tvg-id="ETv | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="LISTA CANALES DIGITALES ETv", Plim Plim TV | ETv
 http://38.41.8.1:8000/play/a0b2
 
-#EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="LISTA CANALES DIGITALES ETv", Nick Jr. | ETv
+#EXTINF:-1 tvg-id="ETv | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="LISTA CANALES DIGITALES ETv", Nick Jr. | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ZooMoo | ETv
+#EXTINF:-1 tvg-id="ETv | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ZooMoo | ETv
 http://138.59.177.34:8000/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Nickelodeon | ETv
+#EXTINF:-1 tvg-id="ETv | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Nickelodeon | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Disney Channel | ETv
+#EXTINF:-1 tvg-id="ETv | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Disney Channel | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 2 | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 2 | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 3 | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 3 | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 4 | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 4 | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 5 | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 5 | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 6 | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 6 | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 7 | ETv
+#EXTINF:-1 tvg-id="ETv | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", ESPN 7 | ETv
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="LISTA CANALES DIGITALES ETv", DW | ETv
+#EXTINF:-1 tvg-id="ETv | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="LISTA CANALES DIGITALES ETv", DW | ETv
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Telehit" tvg-name="MX | Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", Telehit | ETv
+#EXTINF:-1 tvg-id="ETv | Telehit" tvg-name="MX | Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="LISTA CANALES DIGITALES ETv", Telehit | ETv
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Telehit Música" tvg-name="MX | Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/145px-Telehit_M%C3%BAsica_logo.png" group-title="LISTA CANALES DIGITALES ETv", Telehit Música | ETv
+#EXTINF:-1 tvg-id="ETv | Telehit Música" tvg-name="MX | Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/145px-Telehit_M%C3%BAsica_logo.png" group-title="LISTA CANALES DIGITALES ETv", Telehit Música | ETv
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Bandamax" tvg-name="MX | Bandamax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/245px-Bandamax_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Bandamax | ETv
+#EXTINF:-1 tvg-id="ETv | Bandamax" tvg-name="MX | Bandamax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/245px-Bandamax_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Bandamax | ETv
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CO | Canal Trece" tvg-name="CO | Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/245px-Canal_Trece_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Canal Trece | ETv
+#EXTINF:-1 tvg-id="ETv | Canal Trece" tvg-name="CO | Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/245px-Canal_Trece_logo.svg.png" group-title="LISTA CANALES DIGITALES ETv", Canal Trece | ETv
 http://45.177.53.7:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="LISTA CANALES DIGITALES ETv", Antena 3 | ETv
+#EXTINF:-1 tvg-id="ETv | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="LISTA CANALES DIGITALES ETv", Antena 3 | ETv
 http://138.59.177.34:8000/play/a00s/index.m3u8
