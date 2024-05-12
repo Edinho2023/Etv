@@ -237,4 +237,59 @@ http://45.177.53.7:8000/play/a04d/index.m3u8
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" STAR CHANNEL UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2693.ts
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png"  UNIVERSAL REALITY UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2694.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png"  STAR CHANNEL UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2695.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png"  STAR COMEDY UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2696.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png"  Universal Crime UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2697.ts
+
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png"  STAR MOVIE UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2698.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Atreseries.png/494px-Atreseries.png"  ATRESERIES UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2786.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"  FOX SPORTS UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2787.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png"  FOX SPORTS 2 UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2788.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"  FOX SPORTS 3 UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2789.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png"  HBO UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2790.ts
+
+#EXTINF:-1  tvg-logo="https://www.pngkit.com/png/full/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png"  HBO 2 HD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2791.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  HBO FAMILY UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2792.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  HBO PLUS UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2793.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  HBO SIGNATURE UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2794.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"  HBO POP UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2795.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png"  HBO MUNDI
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2796.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"  TNT UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2797.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"  TNT SERIES UHD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2798.ts
