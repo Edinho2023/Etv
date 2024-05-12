@@ -236,11 +236,9 @@ http://45.177.53.7:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" tvg-name="ETv | Antena 3", ETv | Antena 3 
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
+#EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" tvg-name="ETv | Star", ETv | Star 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2693.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" tvg-name="ETv | Universal Reality", ETv | Universal Reality 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2694.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" tvg-name="ETv | Star", ETv | Star 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2695.ts
@@ -250,6 +248,9 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2696.ts
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png"  tvg-name="ETv | Star Movie", ETv | Star Movie 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2698.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" tvg-name="ETv | Universal Reality", ETv | Universal Reality 
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2694.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png"  tvg-name="ETv | Universal Crime", ETv | Universal Crime 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2697.ts
@@ -263,32 +264,32 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2787.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png"  tvg-name="ETv | Fox Sports 2", ETv |  Fox Sports 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2788.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"  tvg-name="ETv | ", ETv |  FOX SPORTS 3 UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"  tvg-name="ETv | Fox Sports 3", ETv |  Fox Sports 3
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2789.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png"  tvg-name="ETv | ", ETv |  HBO UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png"  tvg-name="ETv | HBO", ETv | HBO 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2790.ts
 
-#EXTINF:-1  tvg-logo="https://www.pngkit.com/png/full/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png"  tvg-name="ETv | ", ETv |  HBO 2 HD
+#EXTINF:-1  tvg-logo="https://www.pngkit.com/png/full/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png"  tvg-name="ETv | HBO 2", ETv | HBO 2 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2791.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  tvg-name="ETv | ", ETv |  HBO FAMILY UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  tvg-name="ETv | HBO Family", ETv | HBO Family 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2792.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  tvg-name="ETv | ", ETv |  HBO PLUS UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  tvg-name="ETv | HBO+", ETv | HBO+ 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2793.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  tvg-name="ETv | ", ETv |  HBO SIGNATURE UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  tvg-name="ETv | HBO Signature", ETv | HBO HBO Signature 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2794.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"  tvg-name="ETv | ", ETv |  HBO POP UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"  tvg-name="ETv | HBO Pop", ETv | HBO Pop 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2795.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png"  tvg-name="ETv | ", ETv |  HBO MUNDI
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png"  tvg-name="ETv | Mundi", ETv | HBO Mundi 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2796.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"  tvg-name="ETv | ", ETv |  TNT UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"  tvg-name="ETv | TNT", ETv | TNT 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2797.ts
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"  tvg-name="ETv | ", ETv |  TNT SERIES UHD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"  tvg-name="ETv | TNT Series", ETv |  TNT Series 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2798.ts
