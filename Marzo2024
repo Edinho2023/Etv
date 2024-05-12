@@ -236,127 +236,73 @@ http://45.177.53.7:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" tvg-name="ETv | Antena 3", ETv | Antena 3 
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
-#EXTM3U
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" tvg-name="ETv | Star", ETv | Star 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2693.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" tvg-name="ETv | Star", ETv | Star 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2695.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png"  tvg-name="ETv | Star Comody", ETv | Star Comody 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2696.ts
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png"  tvg-name="ETv | Star Movie", ETv | Star Movie 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2698.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" tvg-name="ETv | Universal Reality", ETv | Universal Reality 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2694.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png"  tvg-name="ETv | Universal Crime", ETv | Universal Crime 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2697.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Atreseries.png/494px-Atreseries.png"  tvg-name="ETv | Atreseries", ETv | Atreseries 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2786.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"  tvg-name="ETv | Fox Sports", ETv | Fox Sports 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2787.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png"  tvg-name="ETv | Fox Sports 2", ETv |  Fox Sports 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2788.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"  tvg-name="ETv | Fox Sports 3", ETv |  Fox Sports 3
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2789.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png"  tvg-name="ETv | HBO", ETv | HBO 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2790.ts
-
-#EXTINF:-1  tvg-logo="https://www.pngkit.com/png/full/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png"  tvg-name="ETv | HBO 2", ETv | HBO 2 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2791.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  tvg-name="ETv | HBO Family", ETv | HBO Family 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2792.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  tvg-name="ETv | HBO+", ETv | HBO+ 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2793.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"  tvg-name="ETv | HBO Signature", ETv | HBO HBO Signature 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2794.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"  tvg-name="ETv | HBO Pop", ETv | HBO Pop 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2795.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png"  tvg-name="ETv | Mundi", ETv | HBO Mundi 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2796.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"  tvg-name="ETv | TNT", ETv | TNT 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2797.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"  tvg-name="ETv | TNT Series", ETv |  TNT Series 
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2798.ts
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 01 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 01", ETv | Cine 01 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2205.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 02 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 02", ETv | Cine 02 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2206.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 03 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 03", ETv | Cine 03 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2208.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 04 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", tvg-name="ETv | Cine 04", ETv | Cine 04
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2209.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 05 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 05", ETv | Cine 05 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2210.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 06 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 06", ETv | Cine 06 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2211.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 07 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 07", ETv | Cine 07 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2212.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 08 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 08", ETv | Cine 08 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2213.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 09 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 09", ETv | Cine 09 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2214.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 10 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 10", ETv | Cine 10 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2215.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 11 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE, tvg-name="ETv | Cine 11", ETv | Cine 11
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2216.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 12 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 12", ETv | Cine 12 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2217.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 13 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 13", ETv | Cine 13 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2218.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 14 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 14", ETv | Cine 14 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2219.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 15 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 15", ETv | Cine 15 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2220.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 16 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 16", ETv | Cine 16 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2221.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 17 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 17", ETv | Cine 17 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2222.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 18 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 18", ETv | Cine 18 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2223.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 19 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 19", ETv | Cine 19 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2224.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 20 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 20", ETv | Cine 20 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2225.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 21 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 21", ETv | Cine 21 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2226.ts
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE" tvg-name="ETv | Cine 22", ETv | Cine 22 
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2227.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="CINE", ETv | Cine 22 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2227.ts
