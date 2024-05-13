@@ -35,7 +35,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png"  tvg-name="ETv | Exitosa", ETv | Exitosa 
 http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2.rpp-noticias.io/static/dist/img/icons/logo.svg" tvg-name="ETv | RPP", ETv | RPP 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" tvg-name="ETv | RPP", ETv | RPP 
 http://191.97.58.41:8001/play/a00v
 
 #EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/telelima.jpg" tvg-name="ETv | TeleLima", ETv | TeleLima 
@@ -50,7 +50,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" tvg-name="ETv | PBO TV", ETv | PBO TV 
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png"  tvg-name="ETv | Nativa TV", ETv | Nativa TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png"  tvg-name="ETv | Nativa TV", ETv | Nativa TV 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" tvg-name="ETv | USMP TV", ETv | USMP TV 
@@ -71,10 +71,10 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" tvg-name="ETv | TNT", ETv | TNT 
 http://170.82.37.21:8000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TNT_Series.svg/revision/latest?cb=20200116195019&path-prefix=es" tvg-name="ETv | TNT Series", ETv | TNT Series 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TNT_Series#/media/Archivo:TNT_Series_Logo_2016.png" tvg-name="ETv | TNT Series", ETv | TNT Series 
 http://168.181.122.234:8000/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-logo="ETv" tvg-name="ETv | Lifetime", ETv | Lifetime 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Lifetime_(Latinoam%C3%A9rica)#/media/Archivo:Logo_Lifetime_2020.svg" tvg-name="ETv | Lifetime", ETv | Lifetime 
 http://138.59.177.34:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" tvg-name="ETv | Golden", ETv | Golden 
@@ -92,7 +92,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" tvg-name="ETv | Studio Universal", ETv | Studio Universal 
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="n/a" tvg-name="ETv | A&E", ETv | A&E 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/A%26E_(Latinoam%C3%A9rica)#/media/Archivo:A&E_Network_logo.svg" tvg-name="ETv | A&E", ETv | A&E 
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" tvg-name="ETv | Star Channel", ETv | Star Channel 
@@ -128,7 +128,7 @@ http://138.59.177.34:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" tvg-name="ETv | Discovery World", ETv | Discovery World 
 http://138.59.177.34:8000/play/a078/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/National-Geographic-Logo.svg" tvg-name="ETv | National Geographic", ETv | National Geographic 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/National_Geographic_(canal_de_televisi%C3%B3n)#/media/Archivo:Natgeologo.svg" tvg-name="ETv | National Geographic", ETv | National Geographic 
 http://45.5.116.178:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-name="ETv | Animal Planet", ETv | Animal Planet 
@@ -292,3 +292,6 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2797.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"  tvg-name="ETv | TNT Series", ETv |  TNT Series 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2798.ts
+
+
+
