@@ -128,7 +128,7 @@ http://138.59.177.34:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" tvg-name="ETv | Discovery World", ETv | Discovery World 
 http://138.59.177.34:8000/play/a078/index.m3u8
 
-#EXTINF:-1  tvg-name="https://upload.wikimedia.org/wikipedia/commons/6/6a/National-Geographic-Logo.svg | National Geographic", ETv | National Geographic 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/National-Geographic-Logo.svg" tvg-name="ETv | National Geographic", ETv | National Geographic 
 http://45.5.116.178:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-name="ETv | Animal Planet", ETv | Animal Planet 
@@ -236,7 +236,6 @@ http://45.177.53.7:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" tvg-name="ETv | Antena 3", ETv | Antena 3 
 http://138.59.177.34:8000/play/a00s/index.m3u8
 
-#EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" tvg-name="ETv | Star", ETv | Star 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2693.ts
 
@@ -293,6 +292,3 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2797.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"  tvg-name="ETv | TNT Series", ETv |  TNT Series 
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2798.ts
-
-
-
