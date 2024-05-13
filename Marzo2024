@@ -71,7 +71,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" tvg-name="ETv | TNT", ETv | TNT 
 http://170.82.37.21:8000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TNT_Series#/media/Archivo:TNT_Series_Logo_2016.png" tvg-name="ETv | TNT Series", ETv | TNT Series 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest?cb=20200116195222&path-prefix=es" tvg-name="ETv | TNT Series", ETv | TNT Series 
 http://168.181.122.234:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Lifetime_(Latinoam%C3%A9rica)#/media/Archivo:Logo_Lifetime_2020.svg" tvg-name="ETv | Lifetime", ETv | Lifetime 
