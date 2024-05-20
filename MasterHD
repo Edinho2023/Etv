@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PE | MasterHD" tvg-name="PE | MasterHD" tvg-logo="https://scontent.flim24-1.fna.fbcdn.net/v/t39.30808-6/309054574_460193922812057_3145576623869561476_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGvs3gczavRHOAUF354mLSabEuCSVOklYpsS4JJU6SVimYNrpfOLkcvs0LsgOnvSxXL4Vra9ZNvxMkLIIJ9qSSS&_nc_ohc=kkGex7PcREEAX_SjIgn&_nc_ht=scontent.flim24-1.fna&oh=00_AfAsFCuD34aUF48JEPb-b9g7J8dtsaJvJQne-h_7B5TRkg&oe=66102310" group-title="REGIONALES", 376 | MasterHD || Puerto Maldonado
+#EXTINF:-1 tvg-name="ETv | MasterHD" tvg-logo="https://etv-canales-digitales.000webhostapp.com/MasterHD.jpg" group-title="Pto. Maldonado", ETv | MasterHD
+https://7.innovatestream.pe:19360/masterhd-trial/masterhd-trial.m3u8
+
+#EXTINF:-1 tvg-name="ETv | MasterHD" tvg-logo="https://etv-canales-digitales.000webhostapp.com/MasterHD.jpg" group-title="Pto. Maldonado", ETv | MasterHD
 https://s1.tvdatta.com:3489/live/mastertvhdlive.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" tvg-name="ETv | Star", ETv | Star 
